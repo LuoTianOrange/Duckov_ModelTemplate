@@ -1,0 +1,1058 @@
+fileFormatVersion: 2
+guid: fb423b8743ddcfa448fa9d1deb3c1cca
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Duck_Armature|Idle' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Foot.L.001' has translation animation that
+      will be discarded.\n\t'Foot.R.001' has translation animation that will be discarded.\n\nClip
+      'Duck_Armature|Walk.Forward' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Foot.L.001' has translation animation that will be discarded.\n\t'Foot.R.001'
+      has translation animation that will be discarded.\n\t'Head' has translation
+      animation that will be discarded.\n\t'HairTip' has translation animation that
+      will be discarded.\n\nClip 'Duck_Armature|Walk.Backward' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Foot.L.001' has translation
+      animation that will be discarded.\n\t'Foot.R.001' has translation animation
+      that will be discarded.\n\t'Head' has translation animation that will be discarded.\n\t'HairTip'
+      has translation animation that will be discarded.\n\nClip 'Duck_Armature|Walk.Left'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Foot.L.001'
+      has translation animation that will be discarded.\n\t'Foot.R.001' has translation
+      animation that will be discarded.\n\t'Head' has translation animation that
+      will be discarded.\n\t'HairTip' has translation animation that will be discarded.\n\nClip
+      'Duck_Armature|Walk.Right' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Foot.L.001'
+      has translation animation that will be discarded.\n\t'Foot.R.001' has translation
+      animation that will be discarded.\n\t'Head' has translation animation that
+      will be discarded.\n\t'HairTip' has translation animation that will be discarded.\n\nClip
+      'Duck_Armature|Idle.RightHandOut' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Foot.L.001' has translation animation that will be
+      discarded.\n\t'Foot.R.001' has translation animation that will be discarded.\n\nClip
+      'Duck_Armature|Walk.Forward.RightHandOut' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Foot.L.001' has translation animation that
+      will be discarded.\n\t'Foot.R.001' has translation animation that will be discarded.\n\t'Head'
+      has translation animation that will be discarded.\n\t'HairTip' has translation
+      animation that will be discarded.\n\nClip 'Duck_Armature|Walk.Backward.RightHandOut'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Foot.L.001'
+      has translation animation that will be discarded.\n\t'Foot.R.001' has translation
+      animation that will be discarded.\n\t'Head' has translation animation that
+      will be discarded.\n\t'HairTip' has translation animation that will be discarded.\n\nClip
+      'Duck_Armature|Walk.Left.RightHandOut' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Foot.L.001' has translation animation that will be
+      discarded.\n\t'Foot.R.001' has translation animation that will be discarded.\n\t'Head'
+      has translation animation that will be discarded.\n\t'HairTip' has translation
+      animation that will be discarded.\n\nClip 'Duck_Armature|Walk.Right.RightHandOut'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Foot.L.001'
+      has translation animation that will be discarded.\n\t'Foot.R.001' has translation
+      animation that will be discarded.\n\t'Head' has translation animation that
+      will be discarded.\n\t'HairTip' has translation animation that will be discarded.\n\nClip
+      'Duck_Armature|Roll' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine.002'
+      has translation animation that will be discarded.\n\t'Spine.003' has translation
+      animation that will be discarded.\n\t'Head' has translation animation that
+      will be discarded.\n\nClip 'Duck_Armature|Duck_Attack' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Head' has translation animation
+      that will be discarded.\n\nClip 'Duck_Armature|Duck_Attack_L2R' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Head' has translation animation
+      that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Duck_Armature|Idle
+      takeName: Duck_Armature|Idle
+      internalID: -7848108134223907206
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Forward
+      takeName: Duck_Armature|Walk.Forward
+      internalID: 494833839164986910
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Backward
+      takeName: Duck_Armature|Walk.Backward
+      internalID: 5339215955483540824
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Left
+      takeName: Duck_Armature|Walk.Left
+      internalID: -8955556388110970443
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Right
+      takeName: Duck_Armature|Walk.Right
+      internalID: 7730528583414934277
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|TPose
+      takeName: Duck_Armature|TPose
+      internalID: -3163956563148550232
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Idle.RightHandOut
+      takeName: Duck_Armature|Idle.RightHandOut
+      internalID: -5008500974686320010
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Forward.RightHandOut
+      takeName: Duck_Armature|Walk.Forward.RightHandOut
+      internalID: 8539878927250811425
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Backward.RightHandOut
+      takeName: Duck_Armature|Walk.Backward.RightHandOut
+      internalID: 3127646715405748104
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Left.RightHandOut
+      takeName: Duck_Armature|Walk.Left.RightHandOut
+      internalID: 5137878657093296989
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Walk.Right.RightHandOut
+      takeName: Duck_Armature|Walk.Right.RightHandOut
+      internalID: 6158210742237352099
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Roll
+      takeName: Duck_Armature|Roll
+      internalID: -328622306814593490
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Duck_Attack
+      takeName: Duck_Armature|Duck_Attack
+      internalID: 6033763332943907959
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duck_Armature|Duck_Attack_L2R
+      takeName: Duck_Armature|Duck_Attack_L2R
+      internalID: 3297529472745406071
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.Upper.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.Upper.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.Lower.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg.Lower.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot.L.001
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot.R.001
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine.001
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine.002
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.Root.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.Root.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.Upper.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.Upper.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.Fore.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm.Fore.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot.L.002
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot.R.002
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HairTip
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Index.L.001
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Index.L.002
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Middle.L.001
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Middle.L.002
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Pinky.L.001
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Pinky.L.002
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Index.R.001
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Index.R.002
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Middle.R.001
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Middle.R.002
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Pinky.R.001
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger.Pinky.R.002
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine.003
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: DuckV2_2(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DuckV2_2
+      parentName: DuckV2_2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Duck_Armature
+      parentName: DuckV2_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Duck_Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 0.97460204, y: 0.9746019, z: 0.9746019}
+    - name: Hip
+      parentName: Root
+      position: {x: 0, y: 0.0010396151, z: 0.0008132372}
+      rotation: {x: -0.11508626, y: -0.000000118417205, z: 0.0000000137193545, w: 0.9933556}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: Spine.001
+      parentName: Hip
+      position: {x: 4.440892e-18, y: 0.0010004387, z: 3.7252902e-11}
+      rotation: {x: 0.07982763, y: -3.552713e-14, z: -0.000000019032404, w: 0.99680865}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Spine.002
+      parentName: Spine.001
+      position: {x: -1.5896897e-18, y: 0.0013912854, z: -2.7939677e-11}
+      rotation: {x: 0.03542175, y: 3.662334e-14, z: -0.0000000084451965, w: 0.9993725}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Spine.003
+      parentName: Spine.002
+      position: {x: -8.54363e-19, y: 0.0015323797, z: 0}
+      rotation: {x: 0.11156163, y: -1.3017533e-14, z: -0.000000026598359, w: 0.99375755}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999964}
+    - name: Head
+      parentName: Spine.003
+      position: {x: -4.485543e-11, y: 0.0023032462, z: -0.00018813743}
+      rotation: {x: -0.11156163, y: -8.266143e-15, z: 0.00000002659836, w: 0.99375755}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: HairTip
+      parentName: Head
+      position: {x: -0.0007027029, y: 0.0032392745, z: 0.0016919248}
+      rotation: {x: 0.27420008, y: -0.040791247, z: 0.20562154, w: 0.9385469}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Arm.Root.R
+      parentName: Spine.003
+      position: {x: 0.0011504665, y: 0.0009630659, z: 0.0001472606}
+      rotation: {x: 0.79464364, y: 0.6049931, z: -0.013930364, w: 0.04827844}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Arm.Upper.R
+      parentName: Arm.Root.R
+      position: {x: 7.942435e-10, y: 0.0012087773, z: 2.561137e-11}
+      rotation: {x: 0.0143134, y: -0.0000000018626447, z: -0.105574675, w: 0.99430835}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.9999998}
+    - name: Arm.Fore.R
+      parentName: Arm.Upper.R
+      position: {x: 1.862645e-10, y: 0.0015100406, z: -1.862645e-10}
+      rotation: {x: -0.001037262, y: -0.000000015322934, z: 0.007650231, w: 0.99997026}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: Hand.R
+      parentName: Arm.Fore.R
+      position: {x: -8.381903e-11, y: 0.0010645674, z: -7.4505804e-11}
+      rotation: {x: -0.010765132, y: -0.03649146, z: 0.07888137, w: 0.9961577}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+    - name: MeleeWeaponSocket
+      parentName: Hand.R
+      position: {x: 0.00052999996, y: 0.0013799999, z: -0.00046999997}
+      rotation: {x: 0.25895396, y: 0.18152635, z: -0.21910891, w: 0.92302895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Finger.Middle.R.001
+      parentName: Hand.R
+      position: {x: -0.0000041112116, y: 0.00074325985, z: 0.0000015249476}
+      rotation: {x: -0.034188412, y: 0.0038632401, z: -0.070197575, w: 0.99693966}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Finger.Middle.R.002
+      parentName: Finger.Middle.R.001
+      position: {x: -2.4214386e-10, y: 0.0006274333, z: -1.11758706e-10}
+      rotation: {x: 0.0047586183, y: 0.00000005378387, z: 0.10033986, w: 0.9949419}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000005}
+    - name: Finger.Pinky.R.001
+      parentName: Hand.R
+      position: {x: 0.000056662633, y: 0.0006148682, z: 0.00040766937}
+      rotation: {x: 0.06844798, y: -0.013310728, z: -0.03815868, w: 0.9968358}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.9999998}
+    - name: Finger.Pinky.R.002
+      parentName: Finger.Pinky.R.001
+      position: {x: -6.0535965e-10, y: 0.0006274329, z: -4.0978193e-10}
+      rotation: {x: -0.032282416, y: 0.03524329, z: 0.09512377, w: 0.9943175}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000002}
+    - name: Finger.Index.R.001
+      parentName: Hand.R
+      position: {x: -0.000067891866, y: 0.0006454053, z: -0.0006768896}
+      rotation: {x: -0.063337035, y: 0.012686153, z: -0.042116515, w: 0.9970224}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Finger.Index.R.002
+      parentName: Finger.Index.R.001
+      position: {x: -2.9802322e-10, y: 0.00062743365, z: -3.7252902e-11}
+      rotation: {x: 0.021540537, y: -0.016095078, z: 0.09811574, w: 0.9948117}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: Arm.Root.L
+      parentName: Spine.003
+      position: {x: -0.0011504665, y: 0.0009630665, z: 0.00014726099}
+      rotation: {x: 0.7946436, y: -0.6049932, z: 0.013930185, w: 0.04827862}
+      scale: {x: 1, y: 1.0000006, z: 1.0000006}
+    - name: Arm.Upper.L
+      parentName: Arm.Root.L
+      position: {x: -3.8417056e-10, y: 0.0012087779, z: -1.3969838e-11}
+      rotation: {x: 0.014313379, y: -0.00000007450579, z: 0.10557411, w: 0.9943085}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999976}
+    - name: Arm.Fore.L
+      parentName: Arm.Upper.L
+      position: {x: -2.6077032e-10, y: 0.0015100405, z: -3.352761e-10}
+      rotation: {x: -0.001037014, y: 0.000000056424685, z: -0.007649028, w: 0.99997026}
+      scale: {x: 1, y: 0.9999997, z: 0.9999999}
+    - name: Hand.L
+      parentName: Arm.Fore.L
+      position: {x: 5.681068e-10, y: 0.0010645672, z: -5.5879353e-11}
+      rotation: {x: -0.010765123, y: 0.036491502, z: -0.07888156, w: 0.9961577}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000002}
+    - name: Finger.Middle.L.001
+      parentName: Hand.L
+      position: {x: 0.000004111342, y: 0.0007432593, z: 0.0000015252829}
+      rotation: {x: -0.034188017, y: -0.0038631866, z: 0.07019691, w: 0.9969396}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+    - name: Finger.Middle.L.002
+      parentName: Finger.Middle.L.001
+      position: {x: -1.11758706e-10, y: 0.0006274329, z: -1.862645e-10}
+      rotation: {x: 0.0047585624, y: -0.000000055413686, z: -0.10033989, w: 0.9949419}
+      scale: {x: 1, y: 1.0000004, z: 1.0000005}
+    - name: Finger.Pinky.L.001
+      parentName: Hand.L
+      position: {x: -0.000056662353, y: 0.000614868, z: 0.00040766958}
+      rotation: {x: 0.06844635, y: 0.013310765, z: 0.038157485, w: 0.996836}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Finger.Pinky.L.002
+      parentName: Finger.Pinky.L.001
+      position: {x: -2.7939676e-10, y: 0.0006274329, z: 4.0978193e-10}
+      rotation: {x: -0.03228245, y: -0.035243273, z: -0.09512369, w: 0.9943175}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: Finger.Index.L.001
+      parentName: Hand.L
+      position: {x: 0.00006789185, y: 0.0006454048, z: -0.00067688926}
+      rotation: {x: -0.06333652, y: -0.012686135, z: 0.042115267, w: 0.9970225}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Finger.Index.L.002
+      parentName: Finger.Index.L.001
+      position: {x: -2.2351741e-10, y: 0.0006274331, z: 1.4901161e-10}
+      rotation: {x: 0.021540599, y: 0.016095076, z: -0.09811588, w: 0.9948117}
+      scale: {x: 0.9999998, y: 1.0000007, z: 1.0000008}
+    - name: Leg.Upper.R
+      parentName: Hip
+      position: {x: 0.0011504663, y: 0.0011340791, z: -0.0005690111}
+      rotation: {x: 0.9909376, y: 0.11117912, z: 0.059523977, w: -0.046248253}
+      scale: {x: 1.0000019, y: 1.0000004, z: 0.9999999}
+    - name: Leg.Lower.R
+      parentName: Leg.Upper.R
+      position: {x: 1.862645e-10, y: 0.0011925593, z: 2.561137e-11}
+      rotation: {x: 0.086515434, y: -0.017837929, z: 0.23794378, w: 0.96725374}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999976}
+    - name: Foot.R.001
+      parentName: Leg.Lower.R
+      position: {x: 5.793117e-10, y: 0.00079621864, z: 2.2351741e-10}
+      rotation: {x: -0.6900971, y: -0.025061093, z: -0.27502248, w: 0.66895485}
+      scale: {x: 1.0000001, y: 1, z: 1.0000008}
+    - name: Foot.R.002
+      parentName: Foot.R.001
+      position: {x: -3.8417054e-11, y: 0.00085066806, z: -1.3969838e-11}
+      rotation: {x: 0.000000029802312, y: -0.00000010430809, z: 0.00000008940694, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: Leg.Upper.L
+      parentName: Hip
+      position: {x: -0.0011504665, y: 0.001134079, z: -0.0005690106}
+      rotation: {x: 0.9909375, y: -0.111179136, z: -0.0595247, w: -0.04624812}
+      scale: {x: 0.9999991, y: 0.9999996, z: 0.99999994}
+    - name: Leg.Lower.L
+      parentName: Leg.Upper.L
+      position: {x: 2.7939677e-11, y: 0.0011925593, z: 4.6566126e-11}
+      rotation: {x: 0.086515136, y: 0.017838163, z: -0.23794387, w: 0.96725374}
+      scale: {x: 0.99999976, y: 1.0000006, z: 1.0000004}
+    - name: Foot.L.001
+      parentName: Leg.Lower.L
+      position: {x: 1.4231773e-10, y: 0.0007962197, z: -1.44355e-10}
+      rotation: {x: -0.69009656, y: 0.02506163, z: 0.27502236, w: 0.6689554}
+      scale: {x: 0.99999994, y: 1.0000008, z: 1.0000002}
+    - name: Foot.L.002
+      parentName: Foot.L.001
+      position: {x: 1.1525116e-10, y: 0.0008506683, z: -4.6566128e-12}
+      rotation: {x: -0.00000014901158, y: 0.00000018626447, z: -0.000000014901158, w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: Tail.001
+      parentName: Hip
+      position: {x: -5.7149824e-10, y: 0.0020676095, z: -0.002397037}
+      rotation: {x: -0.62103015, y: -2.131628e-14, z: 0.0000001480651, w: 0.78378665}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999976}
+    - name: Tail.002
+      parentName: Tail.001
+      position: {x: -7.7078867e-17, y: 0.0005003904, z: -1.06435714e-10}
+      rotation: {x: 0.3372204, y: 4.7558484e-14, z: -0.00000008039959, w: 0.94142574}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000002}
+    - name: Player_Duck_Head
+      parentName: DuckV2_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
